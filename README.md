@@ -1,4 +1,4 @@
-# Sports Venue Data Analysis: An End-to-End Azure Data Engineering Project
+# Sports Venue Data Analysis
 
 ## Project Overview
 This project provides an in-depth analysis of sports venue capacities worldwide, leveraging a variety of Azure services for data engineering tasks. By scraping data from Wikipedia, storing and transforming it using Azure technologies, and analyzing it through SQL queries, we uncover fascinating insights into the world of sports infrastructures, such as the popularity of sports in different countries, investment in sports facilities, and the diversity of venue sizes.
